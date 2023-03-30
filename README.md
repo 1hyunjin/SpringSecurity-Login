@@ -10,4 +10,4 @@
 - 인가(Authorize) : 리소스에 대해 접근 가능한 권한을 가지고 있는지 확인하는 과정
 
 ### notion Link
-https://tricolor-calf-fb2.notion.site/Spring-Security-17c2cc37b8f4461eaf50b9d15f4c2dbe
+https://leah-space.notion.site/Spring-Security-17c2cc37b8f4461eaf50b9d15f4c2dbe
